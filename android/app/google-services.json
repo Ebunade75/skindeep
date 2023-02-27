@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "181676437214",
+    "project_id": "skindeep-cfd04",
+    "storage_bucket": "skindeep-cfd04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181676437214:android:ce7338930232d0a5bfdc4f",
+        "android_client_info": {
+          "package_name": "com.mycompany.sd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181676437214-k03na6aiocrmn9neeajmlior221l986b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sd",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "181676437214-ds9249ra6rmcgoh4prsnjgjg5mf24ahg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARcJFZZnrqvCisvi7-X2-uwp0RNK7pewg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181676437214-ds9249ra6rmcgoh4prsnjgjg5mf24ahg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181676437214-q6d858tevkgqpbbq3mvh6jsger0io27d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
